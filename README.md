@@ -1,6 +1,8 @@
 ### Hi there, I'm [Raymond Li](https://abord77.github.io/personal-site-v2/) 👋
 
-I am a Computer Science and Combinatorics & Optimization major from the [University of Waterloo](https://uwaterloo.ca/), Canada. I'm interested in doing research and currently doing research in Algorithm Design and Computer Vision. Apart from that, I am a seasoned full-stack developer and experienced with cloud & containerization technologies.
+I am a Computer Science and Combinatorics & Optimization major from the [University of Waterloo](https://uwaterloo.ca/), Canada. I'm passionate about research and have 2 experiences as an undergraduate research assistant. One in Algorithm Design on k-Coloring Special Restricted Graphs and my other in Computer Vision and Machine Learning for Hockey Analysis. 
+
+In additon, I am a seasoned full-stack developer and experienced with cloud & containerization technologies.
 
  **I am open to**:
 
